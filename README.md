@@ -4,7 +4,7 @@
 
 Distribuidora AI es una solución innovadora diseñada para optimizar la gestión de depósitos en distribuidoras y organizaciones similares. Este sistema automatizado reduce las pérdidas de tiempo y mejora la eficiencia operativa al gestionar la llegada de camiones de manera inteligente.
 
-![Distribuidora AI]([images/Captura de pantalla (309)](https://github.com/Fabricio-Ledesma/DistribuidoraAI/blob/25f9265980ecc845e784f819418763cde85c73ba/images/Captura%20de%20pantalla%20(309).png))
+![Distribuidora AI](https://github.com/Fabricio-Ledesma/DistribuidoraAI/blob/25f9265980ecc845e784f819418763cde85c73ba/images/Captura%20de%20pantalla%20(309).png)
 
 ## Problema
 
